@@ -1,4 +1,4 @@
-package org.h2database.contrib;
+package com.github.skhatri.h2contrib;
 
 import java.util.UUID;
 
